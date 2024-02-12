@@ -1,0 +1,22 @@
+.card{
+    margin-top: 1%;
+    margin-left: 0.5%;
+    width: 20%;
+    height: 10%;
+}
+.cardDetails{
+    display: flex;
+    justify-content: space-around;
+}
+.description h1{
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.tag h1{
+    font-size: medium;
+    color: green;
+    text-align: center;
+    padding-top: 70%;
+}

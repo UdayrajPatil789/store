@@ -1,0 +1,22 @@
+.banner{
+    text-align: center;
+    height: 13rem;
+    background-color: black;
+    padding-top: 4rem;
+    font-weight: 300;
+    color: white; /* Change the font color to your desired color */
+    font-weight: bold; /* Make the font bold */
+    font-size: 35px; /* Set the font size to your desired size */
+  
+    
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.view{
+    padding-left: 5%;
+}
